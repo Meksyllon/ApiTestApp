@@ -5,6 +5,30 @@
     {
       "AbsoluteMoniker": "D:0:0:{EBAB84CE-2806-4BCE-AE5F-8701D938B7F2}|TestApp\\TestApp.csproj|d:\\programming\\c#\\testapp\\testapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{EBAB84CE-2806-4BCE-AE5F-8701D938B7F2}|TestApp\\TestApp.csproj|solutionrelative:testapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBAB84CE-2806-4BCE-AE5F-8701D938B7F2}|TestApp\\TestApp.csproj|d:\\programming\\c#\\testapp\\testapp\\countrybyname.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EBAB84CE-2806-4BCE-AE5F-8701D938B7F2}|TestApp\\TestApp.csproj|solutionrelative:testapp\\countrybyname.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBAB84CE-2806-4BCE-AE5F-8701D938B7F2}|TestApp\\TestApp.csproj|d:\\programming\\c#\\testapp\\testapp\\infobyip.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EBAB84CE-2806-4BCE-AE5F-8701D938B7F2}|TestApp\\TestApp.csproj|solutionrelative:testapp\\infobyip.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBAB84CE-2806-4BCE-AE5F-8701D938B7F2}|TestApp\\TestApp.csproj|d:\\programming\\c#\\testapp\\testapp\\bitcoinprice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EBAB84CE-2806-4BCE-AE5F-8701D938B7F2}|TestApp\\TestApp.csproj|solutionrelative:testapp\\bitcoinprice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBAB84CE-2806-4BCE-AE5F-8701D938B7F2}|TestApp\\TestApp.csproj|d:\\programming\\c#\\testapp\\testapp\\genderbyname.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EBAB84CE-2806-4BCE-AE5F-8701D938B7F2}|TestApp\\TestApp.csproj|solutionrelative:testapp\\genderbyname.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBAB84CE-2806-4BCE-AE5F-8701D938B7F2}|TestApp\\TestApp.csproj|d:\\programming\\c#\\testapp\\testapp\\agebyname.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EBAB84CE-2806-4BCE-AE5F-8701D938B7F2}|TestApp\\TestApp.csproj|solutionrelative:testapp\\agebyname.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBAB84CE-2806-4BCE-AE5F-8701D938B7F2}|TestApp\\TestApp.csproj|d:\\programming\\c#\\testapp\\testapp\\randomcatfact.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EBAB84CE-2806-4BCE-AE5F-8701D938B7F2}|TestApp\\TestApp.csproj|solutionrelative:testapp\\randomcatfact.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,8 +38,86 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 6,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CountryByName.cs",
+              "DocumentMoniker": "D:\\Programming\\C#\\TestApp\\TestApp\\CountryByName.cs",
+              "RelativeDocumentMoniker": "TestApp\\CountryByName.cs",
+              "ToolTip": "D:\\Programming\\C#\\TestApp\\TestApp\\CountryByName.cs",
+              "RelativeToolTip": "TestApp\\CountryByName.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T09:40:14.901Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "GenderByName.cs",
+              "DocumentMoniker": "D:\\Programming\\C#\\TestApp\\TestApp\\GenderByName.cs",
+              "RelativeDocumentMoniker": "TestApp\\GenderByName.cs",
+              "ToolTip": "D:\\Programming\\C#\\TestApp\\TestApp\\GenderByName.cs",
+              "RelativeToolTip": "TestApp\\GenderByName.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T09:39:56.177Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AgeByName.cs",
+              "DocumentMoniker": "D:\\Programming\\C#\\TestApp\\TestApp\\AgeByName.cs",
+              "RelativeDocumentMoniker": "TestApp\\AgeByName.cs",
+              "ToolTip": "D:\\Programming\\C#\\TestApp\\TestApp\\AgeByName.cs",
+              "RelativeToolTip": "TestApp\\AgeByName.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T09:39:17.047Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "RandomCatFact.cs",
+              "DocumentMoniker": "D:\\Programming\\C#\\TestApp\\TestApp\\RandomCatFact.cs",
+              "RelativeDocumentMoniker": "TestApp\\RandomCatFact.cs",
+              "ToolTip": "D:\\Programming\\C#\\TestApp\\TestApp\\RandomCatFact.cs",
+              "RelativeToolTip": "TestApp\\RandomCatFact.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T09:38:52.398Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BitcoinPrice.cs",
+              "DocumentMoniker": "D:\\Programming\\C#\\TestApp\\TestApp\\BitcoinPrice.cs",
+              "RelativeDocumentMoniker": "TestApp\\BitcoinPrice.cs",
+              "ToolTip": "D:\\Programming\\C#\\TestApp\\TestApp\\BitcoinPrice.cs",
+              "RelativeToolTip": "TestApp\\BitcoinPrice.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T09:38:22.46Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "InfoByIP.cs",
+              "DocumentMoniker": "D:\\Programming\\C#\\TestApp\\TestApp\\InfoByIP.cs",
+              "RelativeDocumentMoniker": "TestApp\\InfoByIP.cs",
+              "ToolTip": "D:\\Programming\\C#\\TestApp\\TestApp\\InfoByIP.cs",
+              "RelativeToolTip": "TestApp\\InfoByIP.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABsAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T09:36:43.767Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -24,7 +126,7 @@
               "RelativeDocumentMoniker": "TestApp\\Program.cs",
               "ToolTip": "D:\\Programming\\C#\\TestApp\\TestApp\\Program.cs",
               "RelativeToolTip": "TestApp\\Program.cs",
-              "ViewState": "AQIAABUAAAAAAAAAAAAowCAAAAApAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAABFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-22T03:34:02.637Z",
               "EditorCaption": ""
